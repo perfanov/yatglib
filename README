@@ -1,0 +1,13 @@
+General goal is practice in:
+C++11 
+software design
+ABI, API compatibility
+source control
+platform-agnostic design
+
+Specific goal is making functionality along the lines of:
+geometry (vector algebra etc)
+image processing (resize, rotate, convert etc)
+image encode/decode (jpeg etc)
+trainer & learner systems (maybe a svm, genetic algo, etc)
+GPU/SIMD/MIMD optimizations
